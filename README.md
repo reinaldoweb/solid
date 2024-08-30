@@ -1,4 +1,4 @@
-# principios Solid
+# Princípios Solid
 # Aplicaçao de boas práticas de mercado em projetos Orientados a Objetos
 
 Módulos que serão abordados:
