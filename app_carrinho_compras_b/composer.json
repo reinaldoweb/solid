@@ -1,0 +1,16 @@
+{
+    "name": "r1web/app_carrinho_compras",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Reinaldo"
+        }
+    ],
+
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "src\\": "src/"
+        }
+    }
+}
