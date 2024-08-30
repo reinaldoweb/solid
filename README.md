@@ -1,7 +1,7 @@
 # principios_solid
 # Aplicaçao de boas práticas de mercado em projetos Orientados a Objetos
 
-Módulos que serão abordados neste curso:
+Módulos que serão abordados:
 
 - SRP - Single Responsibility Principle (Princípio da Responsabilidade Única)
 
