@@ -2,7 +2,7 @@
     "name": "r1web/app_etl",
     "autoload": {
         "psr-4": {
-            "R1web\\AppEtl\\": "src/"
+            "src\\": "src/"
         }
     },
     "authors": [

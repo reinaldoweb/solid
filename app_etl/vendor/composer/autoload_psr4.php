@@ -6,5 +6,5 @@ $vendorDir = dirname(__DIR__);
 $baseDir = dirname($vendorDir);
 
 return array(
-    'R1web\\AppEtl\\' => array($baseDir . '/src'),
+    'src\\' => array($baseDir . '/src'),
 );
