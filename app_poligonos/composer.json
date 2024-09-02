@@ -1,0 +1,15 @@
+{
+    "name": "r1web/app_poligonos",
+    "autoload": {
+        "psr-4": {
+            "R1web\\Poligonos\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Reinaldo",
+            "email": "reinaldoweb@hotmail.com"
+        }
+    ],
+    "require": {}
+}
