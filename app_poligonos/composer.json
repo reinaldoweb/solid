@@ -2,7 +2,7 @@
     "name": "r1web/app_poligonos",
     "autoload": {
         "psr-4": {
-            "R1web\\Poligonos\\": "src/"
+            "src\\": "src/"
         }
     },
     "authors": [
