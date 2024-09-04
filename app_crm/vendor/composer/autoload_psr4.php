@@ -6,5 +6,5 @@ $vendorDir = dirname(__DIR__);
 $baseDir = dirname($vendorDir);
 
 return array(
-    'R1web\\AppCrm\\' => array($baseDir . '/src'),
+    'src\\' => array($baseDir . '/src'),
 );
