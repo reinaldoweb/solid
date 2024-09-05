@@ -2,4 +2,8 @@
 
 require __DIR__.'/vendor/autoload.php';
 
-echo "Hello World!\n";
+use src\Mensageiro;
+
+$msg = new Mensageiro();
+
+ $msg->enviarToken();
