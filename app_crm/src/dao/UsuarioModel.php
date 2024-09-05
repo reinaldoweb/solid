@@ -6,12 +6,16 @@ use src\BD;
 
 use src\Interfaces\ICadastro;
 
+use src\Interfaces\INotificacao;
+
+use src\Interfaces\ILog;
+
 use src\componentes\Log;
 
 use src\componentes\Notificacao;
 
 
-class UsuarioModel extends BD implements ICadastro{
+class UsuarioModel extends BD implements ICadastro, INotificacao, ILog{
 
 
     public function Salvar(){
